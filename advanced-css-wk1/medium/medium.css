@@ -1,0 +1,111 @@
+.grid-container {
+  display: grid;
+  grid-row-gap: 5px; 
+  grid-column-gap: 5px; 
+  grid-template-columns: auto auto auto auto;
+  background-color: white;
+  /* padding: 5px;   */
+}
+
+.grid-item-1 {
+/*   background-color: white; */
+  /* border: 1px solid; */
+  padding: 5px;
+  font-size: 12px;
+  text-align: right;
+  background:     url(https://target.scene7.com/is/image/Target/GUEST_fbcf39b1-2325-4707-b22d-518ae6b8099b?wid=488&hei=488&fmt=pjpeg);
+  background-repeat: no-repeat;
+  background-size: 80px 60px;
+  color:black;
+  border:2px solid black;
+  }
+
+.grid-item-2 {
+/*   background-color: white;  */
+  /* border: 1px solid; */
+  padding: 5px;
+  font-size: 12px;
+  text-align: right;
+ background:    url(https://target.scene7.com/is/image/Target/GUEST_ab6cde4f-0410-4486-9585-9862744075b2?wid=488&hei=488&fmt=pjpeg);
+     background-repeat: no-repeat;
+  background-size: 80px 50px;
+  color:black;
+  border:2px solid black;
+}
+.grid-item-3 {
+/*   background-color: white; */
+  /* border: 1px solid; */
+  padding: 5px;
+  font-size: 12px;
+  text-align:  right; background: 
+  url(https://target.scene7.com/is/image/Target/GUEST_70854f14-7726-4d68-98ef-fd2f772d836f?wid=488&hei=488&fmt=pjpeg);
+        background-repeat: no-repeat;
+  background-size: 80px 50px;
+  color:black;
+  border:2px solid black;
+}
+.grid-item-4 {
+/*   background-color: white; */
+  /* border: 1px solid; */
+  padding: 5px;
+  font-size: 12px;
+  text-align: right;
+   background: 
+  url(https://target.scene7.com/is/image/Target/GUEST_7c763a43-c5fe-4155-a40b-a094a8f76955?wid=488&hei=488&fmt=pjpeg);
+        background-repeat: no-repeat;
+  background-size: 80px 50px;
+  color:black;
+  border:2px solid black;
+}
+.grid-item-5 {
+  background-color: white;
+  /* border: 1px solid; */
+  padding: 5px;
+  font-size: 12px;
+  text-align: right;
+   background: 
+  url(https://www.hersheys.com/is/image/content/dam/smartlabelproductsimage/reeses/00034000402113-0011.png?wid=570&hei=570&fmt=png-alpha);
+      background-repeat: no-repeat;
+  background-size: 80px 50px;
+  color:black;
+  border:2px solid black;
+}
+.grid-item-6 {
+  background-color: white;
+  /* border: 1px solid; */
+  padding: 5px;
+  font-size: 12px;
+  text-align: right;
+   background: 
+      url(https://images-na.ssl-images-amazon.com/images/I/81GuYT9FRVL._SL1500_.jpg);
+        background-repeat: no-repeat;
+  background-size: 80px 50px;
+  color:black;
+  border:2px solid black;
+}
+.grid-item-7 {
+/*   background-color: white; */
+  /* border: 1px solid; */
+  padding: 5px;
+  font-size: 12px;
+  text-align: right;
+   background: 
+ url(https://target.scene7.com/is/image/Target/GUEST_c18093c4-867b-45c5-a7bb-d64fe0091cea?wid=488&hei=488&fmt=pjpeg);
+        background-repeat: no-repeat;
+  background-size: 80px 50px;
+  color:black;
+  border:2px solid black;
+}
+.grid-item-8 {
+/*   background-color: white; */
+  /* border: 1px solid; */
+  padding: 5px;
+  font-size: 12px;
+  text-align: right;
+   background: 
+      url(https://target.scene7.com/is/image/Target/GUEST_28fc5b41-20df-4340-b70a-267abf467c6c?wid=488&hei=488&fmt=pjpeg);
+     background-repeat: no-repeat;
+  background-size: 80px 50px;
+  color:black;
+ border:2px solid black;
+}
