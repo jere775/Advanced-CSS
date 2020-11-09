@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // //////Very Hard
 
 // var number = prompt("Enter A Number?");
@@ -27,6 +28,8 @@
 //         console.log("Redo it");
 // }
 
+=======
+>>>>>>> d0f5f889f9430f97e1079fa3fcda00699b78257e
 //////Very Hard
 
 var _number ,_operator ,_numTwo ,_answer; 
@@ -54,4 +57,8 @@ switch (_operator) {
         break;
     default:
         console.log("Redo it");
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> d0f5f889f9430f97e1079fa3fcda00699b78257e
