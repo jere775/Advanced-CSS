@@ -11,9 +11,9 @@
 
 
 
-var firstName, lastName, age;
+let firstName, lastName, age;
 firstName = ['Judith', 'Bobby', 'James'];
 lastName = ['Espinoza', 'Bob', 'Bond'];
 age = ['21','20','18'];
-var answer = (firstName, lastName, age) => `Hi, my name is ${firstName} ${lastName} and I'm ${age} years old.`;
+let answer = (firstName, lastName, age) => `Hi, my name is ${firstName} ${lastName} and I'm ${age} years old.`;
 console.log(answer(firstName[1],lastName[1],age[1]));
