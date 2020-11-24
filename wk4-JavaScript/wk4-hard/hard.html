@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Hard JS4</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+    }
+
+    h1 {
+      color: red;
+    }
+
+    button {
+      padding: 10px;
+    }
+
+    button:active{
+      background-color: black;
+ 
+    }
+
+    .bg-red {
+      background-color: red;
+    }
+
+    .bg-white {
+      background-color: white;
+    }
+    html{
+        background-color: blue;
+    }
+
+  </style>
+</head>
+<body>
+    <div class="containter">
+        <div class ="one">
+            <button id = "bg-red" onclick="turn('bg-red')">Turn it red!</button>
+        </div>
+        <div class ="two">
+            <button id = "bg-white" onclick="turn('bg-white')">Turn it white!</button>
+        </div>
+    </div>
+    <h2>Hard</h2>
+    <!-- <button>
+      Turn it red!
+    </button>
+    <button>
+      Turn it white!
+    </button> -->
+    <script>
+     // Do Stuff Here
+    //  window.updateTheBackground = 
+     function turn(className) {
+         var body = document.querySelector('html');
+         while(body.classList.length > 0){
+             body.classList.remove(body.classList.item(0));
+            }
+            body.classList.add(className);
+        }
+    </script>
+    <script src="hard.js"></script>
+</body>
+</html>
