@@ -28,3 +28,9 @@
 // console.log(rc(coins,amount))
 
 
+// array of coin in my parameter function veryHard(arra, amount){}
+// for loop iterate through each on ebut count backwards or (decreent)
+// method that can sort my array
+// conditional ( taking the largest coin subtracting from the amount)
+// if my first conditional is less than 0 move on to next coin to the next coin
+//if coin goes into
