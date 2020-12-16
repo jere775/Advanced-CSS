@@ -1,0 +1,16 @@
+{
+  "name": "medium-node2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "medium.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Judith Espinoza",
+  "license": "ISC",
+  "dependencies": {
+    "medium.js": "^1.0.1",
+    "module": "^1.2.5",
+    "node": "^15.4.0"
+  }
+}

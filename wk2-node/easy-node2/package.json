@@ -1,0 +1,23 @@
+{
+  "name": "my-super-amazing-app",
+  "version": "2.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jere775/r2h-assignments.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jere775/r2h-assignments.git"
+  },
+  "homepage": "https://github.com/jere775/r2h-assignments.git",
+  "description": ""
+}

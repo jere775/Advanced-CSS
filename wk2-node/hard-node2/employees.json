@@ -1,0 +1,64 @@
+{
+    "employees":[
+{
+     "id": 1,
+     "name": "Judith", 
+     "salary": 1000000000, 
+     "department":"A"
+    },
+    {
+    "id": 2, 
+    "name": "Bobby", 
+    "salary": 1000, 
+    "department": "B"
+},
+    {
+    "id": 3, 
+    "name": "Bob", 
+    "salary": 1500, 
+    "department": "A"
+},
+    {
+    "id": 4, 
+    "name": "Bill", 
+    "salary": 2000, 
+    "department": "B"
+},
+    {
+    "id": 5, 
+    "name": "Jill", 
+    "salary": 2500, 
+    "department": "A"
+},
+    {
+    "id": 6, 
+    "name": "Mill", 
+    "salary": 3000, 
+    "department": "B"
+},
+    {
+    "id": 7, 
+    "name": "Romero", 
+    "salary": 3500, 
+    "department": "A"
+},
+    {
+    "id": 8, 
+    "name": "Espinoza", 
+    "salary": 4000, 
+    "department": "B"
+},
+    {
+    "id": 9, 
+    "name": "Elizabeth", 
+    "salary": 4500, 
+    "department": "A"
+},
+    {
+    "id": 10, 
+    "name": "King", 
+    "salary": 5000, 
+    "department": "B"
+}
+    ]
+}
